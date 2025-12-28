@@ -1,0 +1,2 @@
+# LangChainPractice
+for practicing langchain 
